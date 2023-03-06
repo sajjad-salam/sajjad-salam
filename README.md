@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sajjad salam</h1>
 <h3 align="center">A flutter developer and Information security specialist from Iraq</h3>
-<img align="center" alt="coding" with="400" src="https://media4.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e47r0c5zsszsdkz3w7z4rsrzltgqr0souf0mrtac2pv&rid=giphy.gif&ct=g">
+<img align="left" alt="coding" with="400" src="https://media4.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e47r0c5zsszsdkz3w7z4rsrzltgqr0souf0mrtac2pv&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-salam" alt="sajjad-salam" /></a> </p>
 
 - 🔭 I’m currently working on [pss project](https://github.com/sajjad-salam/pss)
