@@ -22,7 +22,6 @@
 <a href="https://www.facebook.com/profile.php?id=100082002095131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100082002095131" height="30" width="40" /></a>
 <a href="https://instagram.com/__c2s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__c2s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Eng.sajjad_salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucov_ve5mfbgoutp0o35ttaq" height="30" width="40" /></a>
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </p>
 
