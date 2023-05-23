@@ -14,6 +14,7 @@
 - 📫 How to reach me **sajjad.salam.teama@gmail.com**
 
 - ⚡ quote today **As long as there is a probability of achieving something, even if it is one percent, then I will achieve it 😎💪**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehya651&show_icons=true&locale=en&layout=compact" alt="yehya651" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
