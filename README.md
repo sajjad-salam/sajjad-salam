@@ -21,7 +21,6 @@
 <p align="left">
  
 <a href="https://www.linkedin.com/in/sajjad-salam-963043244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjad-salam-963043244/" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/users/sajjad-salam" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg"  /></a>
 <a href="https://stackoverflow.com/users/19420215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19420215" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100082002095131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100082002095131" height="30" width="40" /></a>
 <a href="https://instagram.com/__c2s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__c2s" height="30" width="40" /></a>
