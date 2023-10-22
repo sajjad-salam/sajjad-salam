@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [pss project](https://github.com/sajjad-salam/pss)
 
-- 🌱 I’m currently learning **mikrotik os and mtcna**
+- 🌱 I’m currently learning **venom "vim"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajjad-salam](https://github.com/sajjad-salam)
 
