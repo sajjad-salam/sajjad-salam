@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajjad-salam](https://github.com/sajjad-salam)
 
-- 💬 Ask me about **information security,network,flutter**
+- 💬 Ask me about **civil enginnering,flutter**
 
 - 📫 How to reach me **sajjad.salam.teama@gmail.com**
 
