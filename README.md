@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/sajjad-salam"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Revarse%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/sajjad-salam"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Flutter%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20python%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h3 align="center"><b><i>MY INFORMATION <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i></b></h3>
