@@ -1,4 +1,3 @@
-<p align="center"><img src="/assets/Logo/logo1.png"></p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
 </p><br>
@@ -7,7 +6,6 @@
 
 <p align='center'><a href="https://github.com/sajjad-salam?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjad-salam?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/sajjad-salam"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sajjad-salam?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a><br>
 
-<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=sajjad-salam">
 
 
