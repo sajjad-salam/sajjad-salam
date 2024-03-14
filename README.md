@@ -51,7 +51,6 @@ func main() {
 
 <h2 align="center">Spent My Time > </h2><br>
 
-<p align="center"><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" width="100%"></p>
 <br>
 <p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
 
