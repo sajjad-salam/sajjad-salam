@@ -58,9 +58,9 @@ func main() {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,bash" /></br>
-    <img src="https://skillicons.dev/icons?i=github,swift,python,go,react,kotlin,mysql,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=flutter,nix,nodejs,nuxtjs,php,ruby,swift,typescript,vscode" />  
+    <img src="https://skillicons.dev/icons?i=html,css,js,bash" /></br>
+    <img src="https://skillicons.dev/icons?i=github,python,mysql" /></br>
+    <img src="https://skillicons.dev/icons?i=flutter,php,vscode" />  
   </a></p>
  
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
