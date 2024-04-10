@@ -1,16 +1,18 @@
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+sajjad;" />
-</p><br>
-
+<div style="display: flex; justify-content: center;">
+    <img src="Creavite.gif" alt="Computer man">
+</div>
+<br>
+<!-- <video src="Creavite.mp4"></video> -->
  <p align='center'><img src="https://komarev.com/ghpvc/?username=sajjad-salam&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="sajjad-salam" /><br>
 
 <p align='center'><a href="https://github.com/sajjad-salam?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjad-salam?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/sajjad-salam"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sajjad-salam?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a><br>
 
-<p align='center'><a href="https://api.daily.dev/get?r=sajjad-salam">
+<!-- <p align='center'><a href="https://api.daily.dev/get?r=sajjad-salam"> -->
 
 
 <p align="center">
-  <a href="https://github.com/sajjad-salam"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Flutter%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20python%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <!-- <a href="https://github.com/sajjad-salam"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Flutter%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20python%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a> -->
 </p>
 
 <h3 align="center"><b><i>MY INFORMATION <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i></b></h3>
