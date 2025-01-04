@@ -36,7 +36,7 @@ func main() {
   me.name     = "sajjad salam"
   me.username = "sajjad-salam"
   me.age      = "21"
-  me.job      = "prompt developer | flutter developer  | python developer"
+  me.job      = "prompt developer | flutter developer  | audomation developer"
   me.hobbies  = []string{"code", "anime", "music","Enginnering"}
   
   fmt.Println(me)
